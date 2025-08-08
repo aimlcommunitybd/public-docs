@@ -1,4 +1,4 @@
-# Research Collaboration Program 01 (July 2025)
+# Research Program 01 (July 2025)
 
 **Purpose:**
 This is a volunteer-based research collaboration program aimed at publishing quality papers in conferences and/or journals.
