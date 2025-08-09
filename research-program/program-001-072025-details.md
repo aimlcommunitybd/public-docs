@@ -25,11 +25,14 @@ This program directly aligns with our **Research & Development** goal — foster
 
 ---
 
-### 🔬 Supervisor
+### 🔬 Supervisors
 
 **Sultanul Islam Ovi**  
+Mentor, AI/ML Professional Community Bangladesh
 PhD Student, Dept. of CSE, George Mason University, USA  
 Former Lecturer, Green University of Bangladesh
+
+_More supervisors may be added to this or future programs as our community grows._
 
 ---
 
