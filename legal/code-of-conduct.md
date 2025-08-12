@@ -14,7 +14,6 @@ We operate entirely through volunteer contributions - no one receives compensati
 
 By engaging with **AIML Professional Community Bangladesh** in any capacity, you agree to follow our **Code of Conduct** and accept our **Terms & Conditions** outlined below. These guidelines apply to all our online and offline platforms and activities, including but not limited to social media groups-pages, websites, chatting channels, workshops, events, meetings, and any other community-related interactions.
 
----
 
 ## 🤝 **Code of Conduct**
 
@@ -99,6 +98,7 @@ By joining and participating in **AIML Professional Community Bangladesh**, you 
 - These terms may be updated periodically based on the evolving needs of the community. Members will be notified of significant changes.    
 
 ---
+
 
 By engaging with **AIML Professional Community Bangladesh**, you acknowledge that you have read, understood, and agreed to both this **Code of Conduct** and the **Terms & Conditions** outlined above. Violations may result in warnings, restrictions, or removal at moderator discretion. Reports of violations can be made by emailing: [coc-aimlcommunitybd@googlegroups.com](mailto:coc-aimlcommunitybd@googlegroups.com).
 
