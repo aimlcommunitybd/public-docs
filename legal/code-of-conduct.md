@@ -16,7 +16,7 @@ By engaging with **AIML Professional Community Bangladesh** in any capacity, you
 
 ---
 
-## **Code of Conduct** 🤝 
+## **Code of Conduct**
 
 To ensure a respectful, inclusive, and productive environment, everyone are expected to adhere to the following guidelines:  
 
