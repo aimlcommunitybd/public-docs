@@ -1,12 +1,11 @@
 # AI/ML Professional Community Bangladesh
 AIML Professional Community Bangladesh is a volunteer-led, non-profit community. Our focus is on strengthening the local AI/ML community and ensuring a free, open-source, and collaborative space for professional growth. We do not charge learners or pay mentors. 
 
-## **Community Goal**  
-- **Knowledge Sharing**: Encouraging open-source contributions, sharing research, projects, and tutorials.  
-- **Mentorship & Support**: Organizing AI/ML-related Q&A sessions, workshops, and mock interviews to help AI/ML practitioners in their early career.  
-- **Community Engagement**: Connecting professionals, facilitating discussions on industry trends, and arranging meetups for networking and collaboration.  
-- **Research & Development**: Promoting research discussions, study groups, and guidance on journal/conference validation.  
-
+## **Community Goals**  
+* 🌍 **Local Networking** – connecting students, professionals, and academics for shared growth
+* 🎓 **Mentorship & Support** – organizing workshops, Q\&A sessions, and mock interviews
+* 🔍 **Research & Development** – enabling collaborative research and helping quality publications
+* 💻 **Open-Source Contributions** – promoting community-driven projects and code contributions
 ---
 
 ## **Code of Conduct**  
