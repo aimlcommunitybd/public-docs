@@ -12,10 +12,11 @@ We operate entirely through volunteer contributions - no one receives compensati
 
 # Code of Conduct & Community Terms
 
-By engaging with **AIML Professional Community Bangladesh** in any capacity, you agree to follow our **[Code of Conduct](https://github.com/aimlcommunitybd/public-docs/edit/main/legal/code-of-conduct.md#code-of-conduct)** and accept our **[Terms & Conditions](https://github.com/aimlcommunitybd/public-docs/edit/main/legal/code-of-conduct.md#terms--conditions)** outlined below. These guidelines apply to all our online and offline platforms and activities, including but not limited to social media groups-pages, websites, chatting channels, workshops, events, meetings, and any other community-related interactions.
+By engaging with **AIML Professional Community Bangladesh** in any capacity, you agree to follow our **[Code of Conduct](https://github.com/aimlcommunitybd/public-docs/blob/main/legal/code-of-conduct.md#code-of-conduct)** and accept our **[Terms & Conditions](https://github.com/aimlcommunitybd/public-docs/edit/main/legal/code-of-conduct.md#terms--conditions)** outlined below. These guidelines apply to all our online and offline platforms and activities, including but not limited to social media groups-pages, websites, chatting channels, workshops, events, meetings, and any other community-related interactions.
 
+---
 
-## 🤝 **Code of Conduct**  
+## **Code of Conduct** 🤝 
 
 To ensure a respectful, inclusive, and productive environment, everyone are expected to adhere to the following guidelines:  
 
@@ -71,9 +72,9 @@ To ensure a respectful, inclusive, and productive environment, everyone are expe
 - all types of community members  
 - people invited to meetings, workshops, webinars, events, etc.  
 
+---
 
-## 📄 **Terms & Conditions**  
-
+## **Terms & Conditions**
 
 By joining and participating in **AIML Professional Community Bangladesh**, you agree to the following terms and conditions:  
 
