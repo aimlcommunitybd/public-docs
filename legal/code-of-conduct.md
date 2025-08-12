@@ -6,43 +6,47 @@ AIML Professional Community Bangladesh is a volunteer-led, non-profit community.
 * 🎓 **Mentorship & Support** – organizing workshops, Q\&A sessions, and mock interviews
 * 🔍 **Research & Development** – enabling collaborative research and helping quality publications
 * 💻 **Open-Source Contributions** – promoting community-driven projects and code contributions
+
 ---
 
 ## **Code of Conduct**  
+
+---
+
 To ensure a respectful, inclusive, and productive environment, everyone are expected to adhere to the following guidelines:  
 
-1. **Be Respectful & Inclusive**  
+#### 1. **Be Respectful & Inclusive**  
    - Treat all members with kindness and respect, regardless of experience level, background, or opinions.  
    - Discrimination, harassment, hate speech, or personal attacks will not be tolerated.  
 
-2. **Collaborate & Share Responsibly**  
+#### 2. **Collaborate & Share Responsibly**  
    - Share accurate, relevant, and open-source knowledge that benefits the community.  
    - Give credit where it's due and avoid plagiarism.  
 
-3. **Support & Encourage**  
+#### 3. **Support & Encourage**  
    - Offer constructive feedback and guidance to help others grow.  
    - Create a welcoming space for beginners by answering questions with patience.  
 
-4. **No Spam, Promotions, or Self-Promotion**  
+#### 4. **No Spam, Promotions, or Self-Promotion**  
    - Avoid excessive self-promotion, job advertisements, or unrelated content.  
    - Sharing personal projects is encouraged if they provide value to the community.  
 
-5. **Keep Discussions Professional & Productive**  
+#### 5. **Keep Discussions Professional & Productive**  
    - Stay on-topic in discussions related to AI/ML, research, and career development.  
    - Disagreements should be resolved respectfully with evidence-based arguments.  
 
-6. **Respect Privacy & Community Rules**  
+#### 6. **Respect Privacy & Community Rules**  
    - Do not share members’ personal information without their consent.  
    - Follow group guidelines and moderator instructions to maintain a healthy community.  
 
-7. **Conflict of Interest**
+#### 7. **Conflict of Interest**
    - When discussing or sharing details about a project you are or were employed in, ensure you are not violating any confidentiality agreements or contracts with your employer/client.  
 
-8. **Avoid Political Discussions**
+#### 8. **Avoid Political Discussions**
    - Refrain from engaging in political debates or sharing political views, whether valid or invalid.  
    - This community is focused on AI/ML and professional growth.  
 
-**This Code of Conduct applies to the following people in online and offline spaces:**  
+#### 9. **This Code of Conduct applies to the following people in online and offline spaces:**  
 - admins of the online space  
 - maintainers  
 - reviewers  
@@ -66,6 +70,8 @@ To ensure a respectful, inclusive, and productive environment, everyone are expe
 ---
 
 ## **Terms & Conditions**  
+
+---
 
 By joining and participating in **AIML Professional Community Bangladesh**, you agree to the following terms and conditions:  
 
