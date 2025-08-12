@@ -87,7 +87,7 @@ By joining and participating in **AI/ML Professional Community Bangladesh**, you
 - Ensure that you have the right to share any research, projects, or tutorials you post.  
 - Do not disclose confidential or proprietary information from your employer, client, or organization without permission.  
 - Open-source contributions are encouraged, but proper credit must be given to original creators.
-- Presenters retain ownership of their original materials, but grant **AI/ML Professional Community Bangladesh** rights to record, edit, and publish session content across various community platforms and channels for educational purposes.  
+- For materials, contents, resource shared in community public sessions/channels, creator/writer retain ownership of their original materials, but grant **AI/ML Professional Community Bangladesh** rights to record, edit, and publish across various community platforms and channels for educational purposes.  
 
 #### **3. Privacy & Data Protection**  
 - Do not share private conversations, personal data, or sensitive information of community members without their consent.  
