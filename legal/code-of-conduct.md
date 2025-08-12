@@ -49,7 +49,8 @@ To ensure a respectful, inclusive, and productive environment, everyone are expe
 #### 8. **Avoid Potentially Divisive Topics**  
 - To ensure an inclusive environment for all members, please avoid divisive topics outside our community's scope.
 - This includes political discussions, ideological debates, or other sensitive topics that may create hostility, regardless of perspective.
-   - This community is focused on AI/ML and professional growth.  
+- This community is focused on AI/ML and professional growth.  
+- Keep discussions centered on AI/ML, technology, and professional development.
 
 #### 9. **This Code of Conduct applies to the following people in online and offline spaces:**  
 - admins of the online space  
