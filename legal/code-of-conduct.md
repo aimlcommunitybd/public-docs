@@ -1,5 +1,6 @@
 # AI/ML Professional Community Bangladesh
-AIML Professional Community Bangladesh is a volunteer-led, non-profit community. Our focus is on strengthening the local AI/ML community and ensuring a free, open-source, and collaborative space for professional growth. We do not charge learners or pay mentors. 
+**AIML Professional Community Bangladesh** is a volunteer-led, non-profit community. Our focus is on strengthening the local AI/ML community and ensuring a free, open-source, and collaborative space for professional growth.  
+We operate entirely through volunteer contributions - no one receives compensation for their services, and we maintain a non-commercial approach to all community activities.
 
 ## **Community Goals**  
 * 🌍 **Local Networking** – connecting students, professionals, and academics for shared growth
@@ -9,9 +10,12 @@ AIML Professional Community Bangladesh is a volunteer-led, non-profit community.
 
 ---
 
-## **Code of Conduct**  
+# Code of Conduct & Community Terms
 
----
+By engaging with **AIML Professional Community Bangladesh** in any capacity, you agree to follow our **[Code of Conduct](https://github.com/aimlcommunitybd/public-docs/edit/main/legal/code-of-conduct.md#code-of-conduct)** and accept our **[Terms & Conditions](https://github.com/aimlcommunitybd/public-docs/edit/main/legal/code-of-conduct.md#terms--conditions)** outlined below. These guidelines apply to all our online and offline platforms and activities, including but not limited to social media groups-pages, websites, chatting channels, workshops, events, meetings, and any other community-related interactions.
+
+
+## 🤝 **Code of Conduct**  
 
 To ensure a respectful, inclusive, and productive environment, everyone are expected to adhere to the following guidelines:  
 
@@ -67,37 +71,35 @@ To ensure a respectful, inclusive, and productive environment, everyone are expe
 - all types of community members  
 - people invited to meetings, workshops, webinars, events, etc.  
 
----
 
-## **Terms & Conditions**  
+## 📄 **Terms & Conditions**  
 
----
 
 By joining and participating in **AIML Professional Community Bangladesh**, you agree to the following terms and conditions:  
 
-### **1. Consent for Recording & Publishing**  
+#### **1. Consent for Recording & Publishing**  
 - By participating in any live sessions (e.g., Q&A, workshops, discussions), you consent to being recorded.  
 - These recordings may be published on community platforms (e.g., LinkedIn, YouTube) for educational purposes.  
 - If you do not wish to be recorded, you may choose not to speak, turn off your camera, or refrain from joining the session.  
 
-### **2. Content Sharing & Intellectual Property**  
+#### **2. Content Sharing & Intellectual Property**  
 - Ensure that you have the right to share any research, projects, or tutorials you post.  
 - Do not disclose confidential or proprietary information from your employer, client, or organization without permission.  
 - Open-source contributions are encouraged, but proper credit must be given to original creators.  
 
-### **3. Privacy & Data Protection**  
+#### **3. Privacy & Data Protection**  
 - Do not share private conversations, personal data, or sensitive information of community members without their consent.  
 - The community may collect minimal information (e.g., email, phone number, LinkedIn profiles) for community activities but will not sell or misuse this data.  
 
-### **4. Limitation of Liability**  
+#### **4. Limitation of Liability**  
 - **AIML Professional Community Bangladesh** is a volunteer-led initiative that does not provide job placements, financial compensation, or legal assistance.  
 - Any advice given in Q&A sessions, discussions, or mentorship is based on personal experience and should not be considered professional or legal advice.  
 
-### **5. Amendments & Updates**  
+#### **5. Amendments & Updates**  
 - These terms may be updated periodically based on the evolving needs of the community. Members will be notified of significant changes.    
 
 ---
 
-By being a part of **AIML Professional Community Bangladesh**, you acknowledge that you have read, understood, and agreed to these terms, Code of Conducts, and principles. Anyone who violate these guidelines may be warned, muted, or removed at the discretion of the moderators.  
+By engaging with **AIML Professional Community Bangladesh**, you acknowledge that you have read, understood, and agreed to both this **Code of Conduct** and the **Terms & Conditions** outlined above. Violations may result in warnings, restrictions, or removal at moderator discretion. Reports of violations can be made by emailing: [coc-aimlcommunitybd@googlegroups.com](mailto:coc-aimlcommunitybd@googlegroups.com).
 
-Let’s build a collaborative and impactful AI/ML community together! 🚀  
+Thank you for helping us maintain a respectful, inclusive, and innovative community where everyone can thrive! 🤝
