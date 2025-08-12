@@ -33,31 +33,35 @@ To ensure a respectful, inclusive, and productive environment, everyone are expe
 
 6. **Respect Privacy & Community Rules**  
    - Do not share members’ personal information without their consent.  
-   - Follow group guidelines and moderator instructions to maintain a healthy community.
+   - Follow group guidelines and moderator instructions to maintain a healthy community.  
 
 7. **Conflict of Interest**
-   - When discussing or sharing details about a project you are or were employed in, ensure you are not violating any confidentiality agreements or contracts with your employer/client.
+   - When discussing or sharing details about a project you are or were employed in, ensure you are not violating any confidentiality agreements or contracts with your employer/client.  
 
 8. **Avoid Political Discussions**
-   - Refrain from engaging in political debates or sharing political views, whether valid or invalid.
-   - This community is focused on AI/ML and professional growth.
+   - Refrain from engaging in political debates or sharing political views, whether valid or invalid.  
+   - This community is focused on AI/ML and professional growth.  
 
-**This Code of Conduct applies to the following people in online and offline spaces:**
-- admins of the online space
-- maintainers
-- reviewers
-- contributors
-- Mentors
-- Guests
-- Speakers
-- staff
-- panelists
-- tutorial or workshop leaders
-- organizers
+**This Code of Conduct applies to the following people in online and offline spaces:**  
+- admins of the online space  
+- maintainers  
+- reviewers  
+- contributors  
+- Mentors  
+- Guests  
+- Speakers  
+- staff  
+- panelists  
+- tutorial or workshop leaders  
+- organizers  
 - volunteers
+- sponsors  
+- donors  
+- advisors
+- alumni  
 - all attendees
-- all community members
-- people invited to meetings, workshops, webinars, events, etc.
+- all types of community members  
+- people invited to meetings, workshops, webinars, events, etc.  
 
 ---
 
@@ -77,7 +81,7 @@ By joining and participating in **AIML Professional Community Bangladesh**, you 
 
 ### **3. Privacy & Data Protection**  
 - Do not share private conversations, personal data, or sensitive information of community members without their consent.  
-- The community may collect minimal information (e.g., email, LinkedIn profiles) for event organization but will not sell or misuse this data.  
+- The community may collect minimal information (e.g., email, phone number, LinkedIn profiles) for community activities but will not sell or misuse this data.  
 
 ### **4. Limitation of Liability**  
 - **AIML Professional Community Bangladesh** is a volunteer-led initiative that does not provide job placements, financial compensation, or legal assistance.  
@@ -88,6 +92,6 @@ By joining and participating in **AIML Professional Community Bangladesh**, you 
 
 ---
 
-By being a part of **AIML Professional Community Bangladesh**, you acknowledge that you have read, understood, and agreed to these terms, CoC, and principles. Anyone who violate these guidelines may be warned, muted, or removed at the discretion of the moderators.  
+By being a part of **AIML Professional Community Bangladesh**, you acknowledge that you have read, understood, and agreed to these terms, Code of Conducts, and principles. Anyone who violate these guidelines may be warned, muted, or removed at the discretion of the moderators.  
 
 Let’s build a collaborative and impactful AI/ML community together! 🚀  
