@@ -80,11 +80,14 @@ By joining and participating in **AI/ML Professional Community Bangladesh**, you
 - By participating in any live sessions (e.g., Q&A, workshops, discussions), you consent to being recorded.  
 - These recordings may be published on community platforms (e.g., LinkedIn, YouTube) for educational purposes.  
 - If you do not wish to be recorded, you may choose not to speak, turn off your camera, or refrain from joining the session.  
+- Participants may take personal notes for educational purposes but may not record, screenshot, or redistribute session content without explicit permission from presenters and community moderators.
+- Unauthorized recording or distribution of community content may result in immediate removal from the community.
 
 #### **2. Content Sharing & Intellectual Property**  
 - Ensure that you have the right to share any research, projects, or tutorials you post.  
 - Do not disclose confidential or proprietary information from your employer, client, or organization without permission.  
-- Open-source contributions are encouraged, but proper credit must be given to original creators.  
+- Open-source contributions are encouraged, but proper credit must be given to original creators.
+- Presenters retain ownership of their original materials, but grant **AI/ML Professional Community Bangladesh** rights to record, edit, and publish session content across various community platforms and channels for educational purposes.  
 
 #### **3. Privacy & Data Protection**  
 - Do not share private conversations, personal data, or sensitive information of community members without their consent.  
@@ -92,13 +95,16 @@ By joining and participating in **AI/ML Professional Community Bangladesh**, you
 
 #### **4. Limitation of Liability**  
 - **AI/ML Professional Community Bangladesh** is a volunteer-led initiative that does not provide job placements, financial compensation, or legal assistance.  
-- Any advice given in Q&A sessions, discussions, or mentorship is based on personal experience and should not be considered professional or legal advice.  
+- Any advice given in Q&A sessions, discussions, or mentorship is based on personal experience and should not be considered professional or legal advice.
+- **AI/ML Professional Community Bangladesh** and its internal team is not liable for any decisions, investments, or actions taken based on information shared in community discussions.
+- All information shared is for educational purposes only.
 
 #### **5. Amendments & Updates**  
-- These terms may be updated periodically based on the evolving needs of the community. Members will be notified of significant changes.    
+- These terms may be updated periodically to reflect the evolving needs of our community.
+- Significant changes will be communicated to members through our primary communication channels.
+- Continued participation in community activities after updates constitutes acceptance of the revised terms.
 
 ---
-
 
 By engaging with **AI/ML Professional Community Bangladesh**, you acknowledge that you have read, understood, and agreed to both this **Code of Conduct** and the **Terms & Conditions** outlined above. Violations may result in warnings, restrictions, or removal at moderator discretion. Reports of violations can be made by emailing: [coc-aimlcommunitybd@googlegroups.com](mailto:coc-aimlcommunitybd@googlegroups.com).
 
