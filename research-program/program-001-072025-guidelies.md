@@ -1,41 +1,37 @@
-
 ## 📋 Research Program Guidelines (Draft)
 
 > 🔗 *All participants are expected to follow our [Community Code of Conduct](https://github.com/aimlcommunitybd/public-docs/blob/main/legal/code-of-conduct.md) to ensure a respectful and collaborative environment.*
 
-To keep things smooth and fair for everyone:
+To keep the program smooth, fair, and productive for everyone:
 
-1. **Weekly Meetings:**
-
-   * Each project team will have a 1–1.5 hour meeting every week (e.g., Saturday evenings — time to be finalized per team).
+1. **Weekly Meetings**
+   * Each project team will have a 1–1.5 hour meeting weekly/bi-weekly (e.g., Saturday evenings — exact time to be finalized per team).  
    * Attendance is expected unless notified in advance.
 
-2. **Task Assignment & Deadlines:**
+2. **Task Assignment & Deadlines**
+   * Clear tasks and deadlines will be assigned by supervisors or team leads.  
+   * Submit code, reports, or findings in the designated folder or platform (e.g., Google Drive, GitHub) on time.
 
-   * Clear tasks and deadlines will be assigned.
-   * Submit code, reports, or findings in the designated folder or platform (e.g., Google Drive, GitHub).
+3. **Communication**
+   * Stay active in your project’s communication channel (e.g., Discord or Classroom).  
+   * Use threads, tags, or channels to keep discussions organized and accessible.  
+   * Regular updates help everyone stay aligned and resolve issues quickly.
 
-3. **Communication:**
+4. **Responsibility & Exit**
+   * If a participant is inactive without notice for 7+ days, they may be considered inactive and tasks may be reassigned.  
+   * Please inform your team in advance if you are temporarily unavailable.
 
-   * Stay active in your project’s communication channel (e.g., Discord/Classroom).
-   * Use threads or tags to keep discussions organized.
+5. **Authorship Policy**
+   * All contributions will be tracked and discussed upfront to ensure transparency.  
+   * **Code contributions** should be made via our GitHub organization: [AI/ML Professional Community Bangladesh](https://github.com/aimlcommunitybd). Commits, pull requests, and issues will document participation.  
+   * **Documentation, reports, and written work** should be submitted in designated folders or collaborative platforms (e.g., Google Drive, GitHub wiki, Google Doc) with clear attribution.  
+   * Equal effort will receive equal credit. Authorship on publications will reflect **actual contributions**, and any disputes will be discussed openly with supervisors.
 
-4. **Responsibility & Exit:**
+6. **Code & Writing Standards**
+   * Follow consistent coding practices (well-documented, reproducible).  
+   * Use proper citation and writing standards; templates and tools will be shared by supervisors.
 
-   * If you're inactive without notice for 7+ days, we’ll assume you've exited the project.
-   * Please inform your team in advance if you’re unavailable temporarily.
-
-5. **Authorship Policy:**
-
-   * Contributions will be tracked and discussed upfront.
-   * Equal effort = equal credit.
-
-6. **Code & Writing Standards:**
-
-   * Follow consistent coding practices (well-documented, reproducible).
-   * Use citation and writing standards (we’ll share templates/tools).
-
-7. **Respect & Collaboration:**
-
-   * Maintain a respectful, inclusive environment.
-   * Be open to feedback, and help teammates when possible.
+7. **Respect & Collaboration**
+   * Maintain a respectful, inclusive environment.  
+   * Be open to feedback and assist teammates whenever possible.  
+   * Conflicts should be discussed openly and constructively, with supervisors mediating if needed.
