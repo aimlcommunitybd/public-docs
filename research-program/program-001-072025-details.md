@@ -27,23 +27,23 @@ This program directly aligns with our **Research & Development** goal — foster
 
 ### 🔬 Supervisors
 
-**Sultanul Islam Ovi**  
+**1. Sultanul Islam Ovi**  
 Mentor, AI/ML Professional Community Bangladesh  
 PhD Student in Computer Science at George Mason University, USA  
-Former Lecturer at Green University of Bangladesh  
-[LinkedIn]([url](https://www.linkedin.com/in/md-sultanul-islam-ovi/)) | [GoogleScholar]([url](https://scholar.google.com/citations?user=RgBDFLQAAAAJ&hl=en))
+Former Lecturer at Green University of Bangladesh   
+[LinkedIn](https://www.linkedin.com/in/md-sultanul-islam-ovi/) | [GoogleScholar](https://scholar.google.com/citations?user=RgBDFLQAAAAJ&hl=en)  
 
-**Tanoy Debnath**  
+**2. Tanoy Debnath**  
 Mentor, AI/ML Professional Community Bangladesh  
 PhD Student in Computer Science at Stony Brook University, USA  
 Former Lecturer, Green University of Bangladesh  
 [LinkedIn](https://www.linkedin.com/in/tanoy-debnath-6b1996155/) | [GoogleScholar](https://scholar.google.com/citations?hl=en&user=mAyaKoEAAAAJ)
 
-**Md Mahade Hasan**  
+**3. Md Mahade Hasan**  
 Mentor, AI/ML Professional Community Bangladesh  
 PhD Student in Software Engineering at Tampere University, Finland  
-Former Lecturer, Daffodil International University, Bangladesh 
-[LinkedIn]([url](https://www.linkedin.com/in/mahadehasan/)) | [GoogleScholar]([url](https://scholar.google.com/citations?hl=en&user=gBjV5LsAAAAJ))
+Former Lecturer, Daffodil International University, Bangladesh   
+[LinkedIn](https://www.linkedin.com/in/mahadehasan/) | [GoogleScholar](https://scholar.google.com/citations?hl=en&user=gBjV5LsAAAAJ)
 
 ---
 
@@ -62,7 +62,7 @@ Former Lecturer, Daffodil International University, Bangladesh
 ---
 
 ### 🕒  Timeline
-Duration: September - December 2025
+**Duration:** September - December 2025
 
 ### 📝 More Details
 TBA
