@@ -24,7 +24,7 @@ To keep the program smooth, fair, and productive for everyone, please follow the
    * If a participant is inactive without notice for 7+ days, they may be considered inactive and tasks may be reassigned.  
    * Please inform your team in advance if you are temporarily unavailable.
 
-5. **Authorship Policy**
+5. **Authorship**
    * All contributions will be tracked and discussed upfront to ensure transparency.  
    * **Code contributions** should be made via our GitHub organization: [AI/ML Professional Community Bangladesh](https://github.com/aimlcommunitybd). Commits, pull requests, and issues will document participation.  
    * **Documentation, reports, and written work** should be submitted in designated folders or collaborative platforms (e.g., Google Drive, GitHub wiki, Google Doc) with clear attribution.  
@@ -38,5 +38,11 @@ To keep the program smooth, fair, and productive for everyone, please follow the
    * Maintain a respectful, inclusive environment.  
    * Be open to feedback and assist teammates whenever possible.  
    * Conflicts should be discussed openly and constructively, with supervisors mediating if needed.
+
+
+### Learn more
+- [Defining the Role of Authors and Contributors](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)
+- [Conflicts of interest in academic publishing](https://en.wikipedia.org/wiki/Conflicts_of_interest_in_academic_publishing)
+- [Contributor Roles Taxonomy](https://en.wikipedia.org/wiki/Contributor_Roles_Taxonomy)
 
 
