@@ -7,7 +7,7 @@ To keep the program smooth, fair, and productive for everyone, please follow the
 
 ## Guidelines
 
-1. **Weekly Meetings**
+1. **Update Meetings**
    * Each project team will have a 1–1.5 hour meeting weekly/bi-weekly (e.g., Saturday evenings — exact time to be finalized per team).  
    * Attendance is expected unless notified in advance.
 
