@@ -1,4 +1,4 @@
-# Community Research Program 01 (September - November 2025)
+# Community Research Program 01 - July 2025
 
 **Purpose:**
 This is a volunteer-based research collaboration program aimed at publishing quality papers in conferences and/or journals.
@@ -48,15 +48,21 @@ Former Lecturer, Daffodil International University, Bangladesh
 ---
 
 ### 📌 Project Topics
-01: Federated Learning in Healthcare, privacy-preserving medical image analysis across hospitals for cancer and chronic kidney disease.  
-02: Hybrid Ensemble Models, combining deep learning and classical ML for multimodal healthcare data (EHR + images).  
-03: Comparative Analysis of Tiny LLMs for Bangla Hate Speech and Emotion Detection across multiple datasets.  
-04: Early Autism Detection.  
-05: Improving Sleep Disorder Diagnosis through optimized machine learning approaches.  
-06: An End-to-End NLP Framework for Depression Detection and Suicidal Thought Intervention in Bengali Youth.  
-07: Tiny LLMs for efficient low-resource Bangla cyberbullying and harassment analysis.  
+| No. | Title                                                                                           |
+|-----|-------------------------------------------------------------------------------------------------|
+| 01  | Federated Learning in Healthcare, privacy-preserving medical image analysis across hospitals for cancer and chronic kidney disease. |
+| 02  | Hybrid Ensemble Models, combining deep learning and classical ML for multimodal healthcare data (EHR + images). |
+| 03  | Comparative Analysis of Tiny LLMs for Bangla Hate Speech and Emotion Detection across multiple datasets. |
+| 04  | Early Autism Detection.                                                                         |
+| 05  | Improving Sleep Disorder Diagnosis through optimized machine learning approaches.               |
+| 06  | An End-to-End NLP Framework for Depression Detection and Suicidal Thought Intervention in Bengali Youth. |
+| 07  | Tiny LLMs for efficient low-resource Bangla cyberbullying and harassment analysis.              |
+
 
 ---
+
+### 🕒  Timeline
+Duration: September - December 2025
 
 ### 📝 More Details
 TBA
