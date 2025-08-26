@@ -2,7 +2,10 @@
 
 > 🔗 *All participants are expected to follow our [Community Code of Conduct](https://github.com/aimlcommunitybd/public-docs/blob/main/legal/code-of-conduct.md) to ensure a respectful and collaborative environment.*
 
-To keep the program smooth, fair, and productive for everyone:
+To keep the program smooth, fair, and productive for everyone, please follow these program guidelines. They apply to all contributors of the following research programs:  
+- **Research Program 01:** [Program Details](https://github.com/aimlcommunitybd/public-docs/blob/main/research-program/program-001-072025-details.md)
+
+## Guidelines
 
 1. **Weekly Meetings**
    * Each project team will have a 1–1.5 hour meeting weekly/bi-weekly (e.g., Saturday evenings — exact time to be finalized per team).  
@@ -35,3 +38,5 @@ To keep the program smooth, fair, and productive for everyone:
    * Maintain a respectful, inclusive environment.  
    * Be open to feedback and assist teammates whenever possible.  
    * Conflicts should be discussed openly and constructively, with supervisors mediating if needed.
+
+
