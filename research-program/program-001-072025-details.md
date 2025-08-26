@@ -64,5 +64,6 @@ TBA
 ---
 
 ### 📝 Public Docs:
-Read [Program Guidelines]([url](https://github.com/aimlcommunitybd/public-docs/blob/main/research-program/program-001-072025-guidelies.md)) (Draft)
-Read [research-program-001-072025-initial-details]([url](https://github.com/aimlcommunitybd/public-docs/blob/main/research-program/program-001-072025-initial-details.md)) (Deprecated)
+Read [Program Guidelines]([url](https://github.com/aimlcommunitybd/public-docs/blob/main/research-program/program-001-072025-guidelies.md)) (Draft)  
+Read [research-program-001-072025-initial-details]([url](https://github.com/aimlcommunitybd/public-docs/blob/main/research-program/program-001-072025-initial-details.md)) (Deprecated)  
+Read [Community Code of Conduct](https://github.com/aimlcommunitybd/public-docs/blob/main/legal/code-of-conduct.md)  
