@@ -21,7 +21,7 @@ This volunteer initiative aims to:
 
 ## 🤝 Volunteer Engagement Model
 
-- Submit the **Call for Volunteers** form: 
+- Submit the **Call for Volunteers** form: https://forms.gle/5ydYzf6oxsEZ9daSA
 - Each volunteer commits to:
   - **1-month trial period** (January 2026)
   - **3 consecutive months** of voluntary service (February - April 2026)
@@ -74,7 +74,7 @@ KPIs will be lightweight, role-specific, and shared during onboarding.
 
 Submit this form to justify your interest. Community Admin will reachout to you soon.
 
-Application Form: 
+**Application Form: https://forms.gle/5ydYzf6oxsEZ9daSA**
 
 If you’re passionate about **AI, ML, learning, and community building**, we’d love to work with you 🚀
 
